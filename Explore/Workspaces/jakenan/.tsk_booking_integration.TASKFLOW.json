@@ -1,0 +1,64 @@
+{
+  "objectInfo" : {
+    "id" : "41RpcBioq38dtskFBdknau",
+    "name" : "tsk_booking_integration",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kThJWjzDt0x7bco-gt-980000-2020-06-02T06:49:28.165Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ {
+    "id" : "9tJnfnSS4aPbYSc9rKZCif",
+    "name" : "mct_uc2_1_sap_to_s3",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104QJ0Z00000000004W"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Workspaces/jakenan"
+  }, {
+    "id" : "4ABtmJOiYGmjJEMAXT0Z4L",
+    "name" : "mct_uc3_s3_to_snowflake",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104QJ0Z00000000004X"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Workspaces/jakenan"
+  } ]
+}
