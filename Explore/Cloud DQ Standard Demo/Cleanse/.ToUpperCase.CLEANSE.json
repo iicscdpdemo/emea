@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "24lbNweUvlLklsmYuRgtae",
+    "name" : "ToUpperCase",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "24lbNweUvlLklsmYuRgtae"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Cleanses to upper case",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "85xETxWjuoAlKFvZ0WSekE",
+    "name" : "rl_Completeness_Multiport",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "85xETxWjuoAlKFvZ0WSekE"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Check on mandatory fields (cannot be null) or empty string \"\"\n",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

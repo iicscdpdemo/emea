@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "6l4pRt1zQeBhNdz27TFvs1",
+    "name" : "rl_Validity_UOM_Codes_by_Type",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6l4pRt1zQeBhNdz27TFvs1"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "If is not null, check on fields adherence with a dynamic domain. \ne.g. the unit of measure have to be valid in the range of a unit of measure type (e.g. Pa or mbar for Pressure)",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "ePLxDnwqSu2goJYAb0QXgs",
+    "name" : "UOM",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ePLxDnwqSu2goJYAb0QXgs"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary for UOM Validation",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/@Dictionaries"
+  } ]
+}

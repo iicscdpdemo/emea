@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "0nDDnJ8k0mrhYKwKAjdPoM",
+    "name" : "mpt_EU_CUSTOMER_Completeness_Check",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104QJ40000000000008"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "85xETxWjuoAlKFvZ0WSekE",
+    "name" : "rl_Completeness_Multiport",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "85xETxWjuoAlKFvZ0WSekE"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Check on mandatory fields (cannot be null) or empty string \"\"\n",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Completeness"
+  } ]
+}

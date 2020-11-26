@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3F96gvky39Xf4P8GUywDIr",
+    "name" : "Address_Verification",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3F96gvky39Xf4P8GUywDIr"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

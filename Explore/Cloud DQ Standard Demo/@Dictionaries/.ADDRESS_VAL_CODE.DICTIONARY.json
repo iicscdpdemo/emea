@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "9FbqZdNm6ExcCuOTuP6n8r",
+    "name" : "ADDRESS_VAL_CODE",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9FbqZdNm6ExcCuOTuP6n8r"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary for Address Validation Exit Code Decoding",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

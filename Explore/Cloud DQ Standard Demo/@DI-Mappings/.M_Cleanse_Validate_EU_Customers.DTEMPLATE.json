@@ -1,0 +1,147 @@
+{
+  "objectInfo" : {
+    "id" : "6aLlYxTE023lwU3z14pcWq",
+    "name" : "M_Cleanse_Validate_EU_Customers",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104QJ1700000000002Y"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Mapping will cleanse and standarise customer records.\nThe cleansed records are then validated and split into good and bad records.\n\nBad records are records that failed a DQ check and need manual remediation.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "aqIG55mgIAlktouo96AaCF",
+    "name" : "Rule_Std_Status",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aqIG55mgIAlktouo96AaCF"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Standardises status values",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Cleanse"
+  }, {
+    "id" : "7j11XxDRck0fYGHapA6xmn",
+    "name" : "ORCL_CDQ_DEMO",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104QJ0B000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Oracle DB Instance local on the SA Server",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5aulXgMuusJfEMSHzVtKcN",
+    "name" : "Cleanse_AV_Code",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5aulXgMuusJfEMSHzVtKcN"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Map AV Codes beginning with C or V to Valid.\n",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Cleanse"
+  }, {
+    "id" : "aIPv6MvUgcHlwtczU5Zv0Z",
+    "name" : "Cleanse_Tier",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aIPv6MvUgcHlwtczU5Zv0Z"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Cleanses Tier from 1, 2, 3 to Gold, Silver and Bronze",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Cleanse"
+  }, {
+    "id" : "evVFPdOllyikjhOAIYZUcg",
+    "name" : "Verify_global_addresses",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "evVFPdOllyikjhOAIYZUcg"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Cleanse"
+  }, {
+    "id" : "85xETxWjuoAlKFvZ0WSekE",
+    "name" : "rl_Completeness_Multiport",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "85xETxWjuoAlKFvZ0WSekE"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Check on mandatory fields (cannot be null) or empty string \"\"\n",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Completeness"
+  } ]
+}

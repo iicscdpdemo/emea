@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "1RvAem33BRYhHkKkxih8q8",
+    "name" : "rl_val_Country",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1RvAem33BRYhHkKkxih8q8"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "fL9f0bf37QzjbBzhOjups8",
+    "name" : "ISO_COUNTRY",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "fL9f0bf37QzjbBzhOjups8"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary for Country Validation",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/@Dictionaries"
+  } ]
+}

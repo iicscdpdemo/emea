@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5aUJ4czbVxziFHqOa307EN",
+    "name" : "rl_Consistency_MinMax_Date",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5aUJ4czbVxziFHqOa307EN"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "IF MIN or MAX Date are not null than have to be less then MAX Date.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

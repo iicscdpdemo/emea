@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "9v0O1SBZuktcbwblu1Yb2T",
+    "name" : "Rule_Validate_Status",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9v0O1SBZuktcbwblu1Yb2T"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Validates Status is listed in the dictionary",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "b8uIWxiFKKohjKl9fWdssz",
+    "name" : "Dictionary_Status",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "b8uIWxiFKKohjKl9fWdssz"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary used to standardise status values",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/@Dictionaries"
+  } ]
+}

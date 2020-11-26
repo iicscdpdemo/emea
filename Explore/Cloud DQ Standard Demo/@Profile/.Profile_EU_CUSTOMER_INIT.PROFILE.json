@@ -1,0 +1,124 @@
+{
+  "objectInfo" : {
+    "id" : "3EX5xU1cv4KfNqwv6isB0R",
+    "name" : "Profile_EU_CUSTOMER_INIT",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8efdde72-74f3-4195-b908-7c4cdb730b5e"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "json",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "8xwkt2m8VI6jNItheWCQMC",
+    "name" : "null_check",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8xwkt2m8VI6jNItheWCQMC"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Determines whether an input field contains data or is null. Returns 1 if the input is a null value and returns 0 if the input is not null.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Informatica_DQ_Bundle"
+  }, {
+    "id" : "aqIG55mgIAlktouo96AaCF",
+    "name" : "Rule_Std_Status",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aqIG55mgIAlktouo96AaCF"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Standardises status values",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Cleanse"
+  }, {
+    "id" : "7j11XxDRck0fYGHapA6xmn",
+    "name" : "ORCL_CDQ_DEMO",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104QJ0B000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Oracle DB Instance local on the SA Server",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "aIPv6MvUgcHlwtczU5Zv0Z",
+    "name" : "Cleanse_Tier",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aIPv6MvUgcHlwtczU5Zv0Z"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Cleanses Tier from 1, 2, 3 to Gold, Silver and Bronze",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Cleanse"
+  }, {
+    "id" : "evVFPdOllyikjhOAIYZUcg",
+    "name" : "Verify_global_addresses",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "evVFPdOllyikjhOAIYZUcg"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/Cleanse"
+  } ]
+}

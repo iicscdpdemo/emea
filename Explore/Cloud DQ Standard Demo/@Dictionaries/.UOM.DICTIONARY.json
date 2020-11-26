@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "ePLxDnwqSu2goJYAb0QXgs",
+    "name" : "UOM",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ePLxDnwqSu2goJYAb0QXgs"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary for UOM Validation",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

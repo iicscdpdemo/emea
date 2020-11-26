@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5aulXgMuusJfEMSHzVtKcN",
+    "name" : "Cleanse_AV_Code",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5aulXgMuusJfEMSHzVtKcN"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Map AV Codes beginning with C or V to Valid.\n",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "9nSTgQRYUw9d7TBWNm9f8K",
+    "name" : "stn_Customer_Status",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9nSTgQRYUw9d7TBWNm9f8K"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Standardize Customer Status",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "0wXU3CVgZfbgoylAVBLGQO",
+    "name" : "STATUS_STN",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0wXU3CVgZfbgoylAVBLGQO"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary for Customer Status Validation",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/@Dictionaries"
+  } ]
+}

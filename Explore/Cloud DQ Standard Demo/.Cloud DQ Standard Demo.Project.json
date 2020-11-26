@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "7BSA6DipjIWcwvBVltpoqO",
+    "name" : "Cloud DQ Standard Demo",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Refer to \"DL: EU: Cloud Product Specialists\" for feedbacks",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

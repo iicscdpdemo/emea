@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "b8uIWxiFKKohjKl9fWdssz",
+    "name" : "Dictionary_Status",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "b8uIWxiFKKohjKl9fWdssz"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary used to standardise status values",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4qEMEJaA3s1cmWCEdGMGYQ",
+    "name" : "TV_Brands",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4qEMEJaA3s1cmWCEdGMGYQ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "TV Brands",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

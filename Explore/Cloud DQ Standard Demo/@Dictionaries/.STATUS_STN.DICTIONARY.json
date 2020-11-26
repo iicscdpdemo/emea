@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0wXU3CVgZfbgoylAVBLGQO",
+    "name" : "STATUS_STN",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0wXU3CVgZfbgoylAVBLGQO"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary for Customer Status Validation",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "evVFPdOllyikjhOAIYZUcg",
+    "name" : "Verify_global_addresses",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "evVFPdOllyikjhOAIYZUcg"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

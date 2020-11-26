@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "23YNUwqk1yPbqmiy4wFXYI",
+    "name" : "rl_Validity_ListOfValues",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "23YNUwqk1yPbqmiy4wFXYI"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Check on fields to verify that the value matches one of the values contained in a specific domain AA / BB / CC / DD",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

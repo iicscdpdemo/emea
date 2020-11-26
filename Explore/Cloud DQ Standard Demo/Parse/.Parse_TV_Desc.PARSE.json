@@ -1,0 +1,64 @@
+{
+  "objectInfo" : {
+    "id" : "kOaahgK9mgaimsEvllqEWD",
+    "name" : "Parse_TV_Desc",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kOaahgK9mgaimsEvllqEWD"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse TV Descriptions",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "kirGwrwNiaRcEJvGjRzM2P",
+    "name" : "TV_Types",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kirGwrwNiaRcEJvGjRzM2P"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "TV Types",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Workspaces/hkinsella"
+  }, {
+    "id" : "90GYpIWkDYslwTxpThjlmf",
+    "name" : "TV_Brands",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "90GYpIWkDYslwTxpThjlmf"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "TV Brands",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Workspaces/hkinsella"
+  } ]
+}

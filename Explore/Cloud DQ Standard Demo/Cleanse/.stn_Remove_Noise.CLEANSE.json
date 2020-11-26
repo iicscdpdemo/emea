@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0YO6n8FDYVUgyYj3DKSos4",
+    "name" : "stn_Remove_Noise",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0YO6n8FDYVUgyYj3DKSos4"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Remove Noise",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

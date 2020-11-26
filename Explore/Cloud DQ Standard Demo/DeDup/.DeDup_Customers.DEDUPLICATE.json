@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "2fvpKSdmfzVi6y1h0VIf6x",
+    "name" : "DeDup_Customers",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2fvpKSdmfzVi6y1h0VIf6x"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "DeDuplicate Global Customers",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

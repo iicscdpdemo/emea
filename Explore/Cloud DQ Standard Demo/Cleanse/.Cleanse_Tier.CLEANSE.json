@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "aIPv6MvUgcHlwtczU5Zv0Z",
+    "name" : "Cleanse_Tier",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aIPv6MvUgcHlwtczU5Zv0Z"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Cleanses Tier from 1, 2, 3 to Gold, Silver and Bronze",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "kiXE913BLgzk3SpqqTmBaQ",
+    "name" : "Dictionary_Tier_Values",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kiXE913BLgzk3SpqqTmBaQ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Customer Tiers",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/@Dictionaries"
+  } ]
+}
