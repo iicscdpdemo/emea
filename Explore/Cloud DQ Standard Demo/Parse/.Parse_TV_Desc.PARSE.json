@@ -21,27 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "kirGwrwNiaRcEJvGjRzM2P",
-    "name" : "TV_Types",
-    "type" : "DICTIONARY",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "kirGwrwNiaRcEJvGjRzM2P"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "TV Types",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Workspaces/hkinsella"
-  }, {
-    "id" : "90GYpIWkDYslwTxpThjlmf",
+    "id" : "4qEMEJaA3s1cmWCEdGMGYQ",
     "name" : "TV_Brands",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -50,15 +30,35 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "90GYpIWkDYslwTxpThjlmf"
+        "repoHandle" : "4qEMEJaA3s1cmWCEdGMGYQ"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "TV Brands",
-        "contentType" : "Binary",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/Workspaces/hkinsella"
+    "path" : "/Explore/Cloud DQ Standard Demo/@Dictionaries"
+  }, {
+    "id" : "ahS1SvBIMKmkMUUey6RIQN",
+    "name" : "TV_Types",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ahS1SvBIMKmkMUUey6RIQN"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "TV Types",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Cloud DQ Standard Demo/@Dictionaries"
   } ]
 }
