@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "2z0yZFHVvSzgpNcYC1C5CV",
+    "name" : "Informatica_DQ_Bundle",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Rule specification and dictionaries",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

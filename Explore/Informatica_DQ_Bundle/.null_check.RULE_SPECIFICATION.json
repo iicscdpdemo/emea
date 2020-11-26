@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8xwkt2m8VI6jNItheWCQMC",
+    "name" : "null_check",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8xwkt2m8VI6jNItheWCQMC"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Determines whether an input field contains data or is null. Returns 1 if the input is a null value and returns 0 if the input is not null.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
