@@ -44,6 +44,26 @@
     },
     "path" : "/SYS"
   }, {
+    "id" : "7kSIRYn3G7SjIsURbg5AAz",
+    "name" : "sap_bapi_get_customer",
+    "type" : "MAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0104QJ0L000000000007"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Workspaces/jakenan"
+  }, {
     "id" : "9kRECkWIOZ4ftv0Q6nNdMv",
     "name" : "SAP_BAPI_TRAINING",
     "type" : "Connection",
@@ -83,25 +103,5 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "lKAqB17nFKCc14QKfledKy",
-    "name" : "sap_bapi_get_customer",
-    "type" : "MAPPLET",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0104QJ0L000000000005"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/MasteringAnalytics/SAP"
   } ]
 }
